@@ -49,6 +49,10 @@
         display: none;
     }
 
+    .menu-lateral {
+        width: 208px;
+    }
+
    
     .navbar {
         display: none;
@@ -80,6 +84,8 @@
         display: none;
     }
 
-    
+    .menu-lateral {
+        width: 228px;
+    }
     
 }
